@@ -1,0 +1,4 @@
+CREATE TABLE posts (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    text TEXT
+);
